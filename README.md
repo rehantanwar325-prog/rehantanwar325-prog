@@ -4,6 +4,21 @@
 
 I build production websites, mobile apps and business automation — booking and storefront sites, ERP dashboards, React Native apps and WhatsApp bots.
 
+## How I use AI
+
+I leverage large language models for:
+- Code generation and debugging
+- Natural language processing for bot responses
+- Content creation and documentation
+- Data analysis and pattern recognition
+- Automated testing assistance
+
+I'm comfortable with:
+- Prompt engineering
+- Integration with OpenAI/APIs
+- Building custom AI workflows
+- Using AI for code review and refactoring
+
 ## What I work with
 
 | Area | Tools |
